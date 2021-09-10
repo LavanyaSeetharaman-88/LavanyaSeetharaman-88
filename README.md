@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I`m Lavanya-Seetharaman</h1>
 
 - 👀 I’m interested in web and app development and game development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working on Angular Web project and Android App 
 - 💞️ I’m looking to collaborate on fresh idea 
 
 - 📫 How to reach me <a href="https://twitter.com/LavanyaRaman20" target="blank"><img align="center" src="https://raw.githubusercontent.com/LearnersCode-Creator/Lavanya-Seetharaman/main/twitter.svg" alt="lavanyaseetharaman" height="30" width="40" /></a>
